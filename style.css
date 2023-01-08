@@ -193,7 +193,12 @@ main{
     border: 0;
     width: 100%;
     padding: 18px 30px;
+    border-radius: 8px;
 }
-input[type="submit"]{
-
+.contact ul{
+    display: flex;
+    list-style: none;
+}
+.contact ul li{
+    margin-right: 20px;
 }
